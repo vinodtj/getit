@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <div className="App">
         <main>
-          <ComponentWithStyledComponents />
+          <ComponentWithSass />
         </main>
       </div>
     );
